@@ -30,14 +30,13 @@ ga bisa ada waf kedua web servernya
 ![[Pasted image 20250223111956.png]]
 ada rate limiting
 ![[Pasted image 20250223104841.png]]
-## c. checker.htb Forgot Password
+## D. checker.htb Forgot Password
 reflected
 ![[Pasted image 20250223113128.png]]
 cannot be exploited yet
 ![[Pasted image 20250223122524.png]]
 # 3. Privilege Escalation
-## a. ..uhui
-![](Pasted%20image%2020250223210420.png)
+## a. 
 
 # 4. Post Exploitation
 ## a. User Flag
