@@ -37,7 +37,7 @@ cannot be exploited yet
 ![[Pasted image 20250223122524.png]]
 # 3. Privilege Escalation
 ## a. ..uhui
-![[Pasted image 20250223205618.png]]
+![[HTB Hard - Checker/Pasted image 20250223210121.png]]
 # 4. Post Exploitation
 ## a. User Flag
 ## b. Root Flag
