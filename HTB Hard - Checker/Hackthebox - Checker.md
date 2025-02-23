@@ -36,7 +36,7 @@ reflected
 cannot be exploited yet
 ![[Pasted image 20250223122524.png]]
 # 3. Privilege Escalation
-## a. ..
+## a. ..uhui
 # 4. Post Exploitation
 ## a. User Flag
 ## b. Root Flag
