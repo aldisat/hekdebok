@@ -16,5 +16,6 @@
     "downscalePercent": 100
   },
   "attachmentFolderPath": "HTB Hard - Checker",
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }
