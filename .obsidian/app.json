@@ -1,0 +1,19 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "HTB Hard - Checker"
+}

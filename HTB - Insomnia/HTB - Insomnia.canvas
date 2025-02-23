@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"fe6306da9a6fc443","type":"text","text":"# FFUF\n\n```\nffuf -c -u http://83.136.252.206:49639/  -H \"Host: FUZZ.83.136.252.206:49639\" -w /usr/share/wordlists/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt \n```\n\nNothing special.\n\n\n","x":2100,"y":-500,"width":740,"height":220},
+		{"id":"e0a02641a61f0f51","type":"text","text":"# Hackthebox Challenge - Insomnia\n\n| Difficulity | Type | Url            |\n| ----------- | ---- | -------------- |\n| Easy        | Web  | localhost:1337 |\n\n","x":874,"y":-700,"width":460,"height":170,"color":"4"},
+		{"id":"55df95abb58ba32a","type":"text","text":"# Reconnaisance\n","x":1480,"y":-645,"width":250,"height":60,"color":"5"},
+		{"id":"01e5075d8f709130","type":"text","text":"# Nuclei\n```\nnuclei -u http://83.136.252.206:49639 -t ~/nuclei-templates/.\n```\nnothing special\n\n","x":2100,"y":-220,"width":685,"height":165},
+		{"id":"4395ff1c8f9ad40a","type":"text","text":"# Feroxbuster\nnothing special","x":2640,"y":-800,"width":200,"height":100},
+		{"id":"78a202ff3d6b38b8","type":"text","text":"# Dirsearch\n\nnothing special","x":2200,"y":-800,"width":180,"height":100},
+		{"id":"5c151b760ee0a7b2","type":"text","text":"# Whatweb\n```\nhttp://83.136.252.206:49639/ [200 OK] Apache[2.4.57], Country[FINLAND][FI], HTML5, HTTPServer[Debian Linux][Apache/2.4.57 (Debian)], IP[83.136.252.206], PHP[8.1.27], Script, Title[Login], X-Powered-By[PHP/8.1.27]\n\n```\n\nversi PHP/8.1.27","x":2192,"y":-1120,"width":548,"height":260},
+		{"id":"63a4f3bf8c765092","type":"text","text":"# Arjun\n```\narjun -u http://83.136.252.206:49639/index.php/login -> NOPE\narjun -u http://83.136.252.206:49639/index.php/register -> NOPE\n\n```\n\nnothing special\n\n","x":2100,"y":-20,"width":740,"height":220},
+		{"id":"669fec0428f079be","type":"text","text":"## Signup\n- http://localhost:1337/index.php/login\n- form **username** & **password**\n- button \"Register Now\n- ada kemungkinan **SQL Injection**\n","x":210,"y":-313,"width":400,"height":200},
+		{"id":"3357bdbd93b36cf5","type":"text","text":"## Home\n- \"Welcome to Insomnia\"\n- Button let start tidak bisa diklik\n- Button exit tidak bisa diklik\n\n\n","x":-930,"y":-293,"width":345,"height":160},
+		{"id":"37cc4ae0d636d978","type":"text","text":"Stored XSS\n![[Pasted image 20250110090724.png]]","x":-585,"y":227,"width":551,"height":279,"color":"1"},
+		{"id":"328c2f13ec3e2a15","type":"text","text":"Reflected XSS![[Pasted image 20250110090543.png]]","x":346,"y":247,"width":528,"height":239,"color":"1"},
+		{"id":"3edd0eec82465617","type":"text","text":"## Signin\n- http://localhost:1337/index.php/login\n- form **username** & **password**\n- button \"Login Now\"\n- ada kemungkinan **SQL Injection**","x":-390,"y":-313,"width":380,"height":200},
+		{"id":"fc6aaa26cb25bc91","type":"text","text":"# Web Overview","x":-317,"y":-653,"width":234,"height":68,"color":"5"},
+		{"id":"89002da80c6714cc","type":"text","text":"# Source Code Review","x":940,"y":680,"width":336,"height":66,"color":"5"},
+		{"id":"36142bfc9ba8577f","type":"text","text":"# ProfilController.php\n![[Pasted image 20250110143525.png]]\n\nterdapat logic jika login sebagai administrator akan mendapatkan flag, tapi tidak parameter yang menentukan passwordnya benar atau salah, hanya username saja\n","x":1360,"y":406,"width":560,"height":680},
+		{"id":"02c331ef40c7f8d7","x":-585,"y":680,"width":530,"height":273,"type":"text","text":"# Login dengan Administrator\n\ntapi intercept, parameter passwordnya di kosongin,\n\nberhasil dapat **flag**"}
+	],
+	"edges":[
+		{"id":"49e936656b532cf2","fromNode":"669fec0428f079be","fromSide":"bottom","toNode":"328c2f13ec3e2a15","toSide":"top"},
+		{"id":"3c10422390b947e2","fromNode":"3edd0eec82465617","fromSide":"bottom","toNode":"37cc4ae0d636d978","toSide":"top"},
+		{"id":"dc770fb018c1b522","fromNode":"328c2f13ec3e2a15","fromSide":"left","toNode":"37cc4ae0d636d978","toSide":"right","color":"1","label":"test login dengan \nusername yang ada \npayload XSS nya"},
+		{"id":"0b7040ced91dffe1","fromNode":"fc6aaa26cb25bc91","fromSide":"bottom","toNode":"3357bdbd93b36cf5","toSide":"top"},
+		{"id":"7586496aa140c230","fromNode":"fc6aaa26cb25bc91","fromSide":"bottom","toNode":"3edd0eec82465617","toSide":"top"},
+		{"id":"e072343baef188d9","fromNode":"fc6aaa26cb25bc91","fromSide":"bottom","toNode":"669fec0428f079be","toSide":"top"},
+		{"id":"9bd78a9da288d858","fromNode":"55df95abb58ba32a","fromSide":"right","toNode":"78a202ff3d6b38b8","toSide":"bottom"},
+		{"id":"164c19905652844a","fromNode":"e0a02641a61f0f51","fromSide":"right","toNode":"55df95abb58ba32a","toSide":"left"},
+		{"id":"8225411abcdb93f3","fromNode":"55df95abb58ba32a","fromSide":"right","toNode":"4395ff1c8f9ad40a","toSide":"bottom"},
+		{"id":"3c837f84c5e2bda4","fromNode":"55df95abb58ba32a","fromSide":"right","toNode":"fe6306da9a6fc443","toSide":"left"},
+		{"id":"d8cd35b6cf13333f","fromNode":"55df95abb58ba32a","fromSide":"bottom","toNode":"01e5075d8f709130","toSide":"left"},
+		{"id":"3b9b4e2ae210ef00","fromNode":"e0a02641a61f0f51","fromSide":"left","toNode":"fc6aaa26cb25bc91","toSide":"right"},
+		{"id":"421a76e65f126d45","fromNode":"55df95abb58ba32a","fromSide":"top","toNode":"5c151b760ee0a7b2","toSide":"left"},
+		{"id":"63c75aec317f3956","fromNode":"55df95abb58ba32a","fromSide":"bottom","toNode":"63a4f3bf8c765092","toSide":"left"},
+		{"id":"470107936234dc49","fromNode":"e0a02641a61f0f51","fromSide":"bottom","toNode":"89002da80c6714cc","toSide":"top"},
+		{"id":"e4d14b48dfff2f86","fromNode":"89002da80c6714cc","fromSide":"right","toNode":"36142bfc9ba8577f","toSide":"left"},
+		{"id":"fcd8f364fd6c503a","fromNode":"37cc4ae0d636d978","fromSide":"bottom","toNode":"02c331ef40c7f8d7","toSide":"top"}
+	]
+}
