@@ -1,4 +1,4 @@
-![[Pasted image 20250223103627.png]]
+![](Pasted%20image%2020250223103627.png)
 # 1.  Service Enumeration
 
 | IP  | Port       |
@@ -6,9 +6,9 @@
 | TCP | 22,80,8080 |
 | UDP | -          |
 ## A.  TCP Active Port 
-![[Pasted image 20250223103808.png]]
+![](Pasted%20image%2020250223103808.png)
 ## B. UDP Active Port
-Nope
+No result.
 ## C.  Domain
 ![[Pasted image 20250223112458.png]]
 add them to /etc/host
@@ -35,6 +35,8 @@ reflected
 ![[Pasted image 20250223113128.png]]
 cannot be exploited yet
 ![[Pasted image 20250223122524.png]]
+coba test SQLi injection save it to file, and send it to sqlmap
+![](Pasted%20image%2020250223212122.png)
 # 3. Privilege Escalation
 ## a. 
 
