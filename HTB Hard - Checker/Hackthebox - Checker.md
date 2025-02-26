@@ -24,13 +24,12 @@ Fitur:
 - Login, ada satu form unik dengan value 60
 - menggunakan **Teampass** -> coba cek versi nya
 ![](Pasted%20image%2020250223104646.png)
-
-## C. Directory
+## B. Directory
 ga bisa ada waf kedua web servernya
 ![](Pasted%20image%2020250223111956.png)
 ada rate limiting
 ![](Pasted%20image%2020250223104841.png)
-## D. checker.htb Forgot Password
+## C. checker.htb Forgot Password
 reflected
 ![](Pasted%20image%2020250223113128.png)
 cannot be exploited yet
@@ -38,13 +37,12 @@ cannot be exploited yet
 coba test SQLi injection save it to file, and send it to sqlmap
 ![](Pasted%20image%2020250223212122.png)
 tidak berhasil
-## E. Teampass
+## D. Teampass
 tidak menemukan version, coba cari manual
 https://security.snyk.io/vuln/SNYK-PHP-NILSTEAMPASSNETTEAMPASS-3367612
 [CVE-2023-1545](https://www.cve.org/CVERecord?id=CVE-2023-1545)
 ![](Pasted%20image%2020250224142310.png)
 ```
-```php
 if [ "$#" -lt 1 ]; then
   echo "Usage: $0 <base-url>"
   exit 1
@@ -78,7 +76,44 @@ for i in `seq 0 $(($users-1))`; do
   echo "$username: $password"
 done
 ```
+
+dapat credential
+![](Pasted%20image%2020250224144238.png)
 ```
+admin: $2y$10$lKCae0EIUNj6f96ZnLqnC.LbWqrBQCT1LuHEFht6PmE4yH75rpWya
+bob: $2y$10$yMypIj1keU.VAqBI692f..XXn0vfyBL7C1EhOs35G59NxmtpJ/tiy
+```
+
+berhasil crack -> cheerleader
+![](Pasted%20image%2020250224150057.png)
+![](Pasted%20image%2020250224150212.png)
+## E. Credential on teampass
+bob@checker.htb mYSeCr3T_w1kI_P4sSw0rD
+![](Pasted%20image%2020250224153732.png)
+bisa login![](Pasted%20image%2020250224194525.png)
+reader hiccup-publicly-genesis
+![](Pasted%20image%2020250224153936.png)
+tidak bisa login
+![](Pasted%20image%2020250224154041.png)
+## Analisa Checker.htb
+1. Search
+   try input ' -> input validasi, no error
+2. Shelves
+   - create shelves -> no html injection
+   - upload cover -> invalid fil
+   -  tag -> no xss
+3. Books
+   - create shelves -> no html injection
+   - upload cover -> invalid fil
+   -  tag -> no xss
+ada OTP setup, coba pake menggunakan google authenticator
+![](Pasted%20image%2020250224211926.png)
+Coba ganti vpn ke US (Tips dari Forum)
+masukkan kode otp dari situs ini
+![](Pasted%20image%2020250225093354.png)
+Berhasil
+![](Pasted%20image%2020250225093436.png)
+ternyata Bookstack ada versinya juga hmmmmm
 
 
 
