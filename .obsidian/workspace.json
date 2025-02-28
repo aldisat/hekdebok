@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 459.5
   },
   "right": {
     "id": "0c8b90bd9bfcf396",
@@ -179,6 +179,9 @@
   },
   "active": "582d3a3ab89e3407",
   "lastOpenFiles": [
+    "HTB Hard - Checker/Pasted image 20250228142856.png",
+    "HTB Hard - Checker/Pasted image 20250228142747.png",
+    "HTB Hard - Checker/Pasted image 20250228141853.png",
     "HTB Hard - Checker/Pasted image 20250228093950.png",
     "HTB Hard - Checker/Pasted image 20250225093436.png",
     "HTB Hard - Checker/Pasted image 20250225093354.png",
@@ -187,9 +190,6 @@
     "HTB Hard - Checker/Pasted image 20250224154041.png",
     "HTB Hard - Checker/Pasted image 20250224153936.png",
     "HTB Hard - Checker/Pasted image 20250224153732.png",
-    "HTB Hard - Checker/Pasted image 20250224150212.png",
-    "HTB Hard - Checker/Pasted image 20250224150057.png",
-    "HTB Hard - Checker/Pasted image 20250224144238.png",
     "HTB - Titanic/Hackthebox -  Titanic.md",
     "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTBC - POP Restaurant/Untitled.canvas",
