@@ -114,11 +114,9 @@ masukkan kode otp dari situs ini
 Berhasil
 ![](Pasted%20image%2020250225093436.png)
 ternyata Bookstack ada versinya juga hmmmmm
-
-
-
-
-
+Bookstack v23.10.2
+![](Pasted%20image%2020250228093950.png)
+CVE-2023-6199 -> https://fluidattacks.com/advisories/imagination/
 
 # 3. Privilege Escalation
 ## a. 
