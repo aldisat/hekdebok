@@ -1,5 +1,11 @@
 # 1.  Service Enumeration
-## a. Port Active Scan
+| IP  | Port |
+| --- | ---- |
+| TCP | -    |
+| UDP | -    |
+## a. TCP Active Port
+## b. UDP Active Port
+## c. Domain
 
 # 2. Initial Access
 ## a. ..

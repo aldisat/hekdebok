@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Medi - Chyper/Hackthebox - Chyper.md",
+                "file": "HTB Medi - Cypher/Hackthebox - Cypher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackthebox - Chyper"
+              "title": "Hackthebox - Cypher"
             }
           }
         ]
@@ -179,23 +179,23 @@
   },
   "active": "582d3a3ab89e3407",
   "lastOpenFiles": [
+    "HTB Medi - Cypher/Pasted image 20250302212736.png",
+    "HTB Medi - Cypher/Pasted image 20250302165805.png",
+    "HTB Medi - Cypher/Pasted image 20250302165457.png",
+    "HTB Medi - Cypher/Pasted image 20250302164924.png",
+    "HTB Medi - Cypher/Pasted image 20250302164602.png",
+    "HTB Medi - Cypher/Pasted image 20250302142145.png",
+    "HTB Medi - Cypher/Pasted image 20250302123534.png",
+    "HTB Medi - Cypher/Hackthebox - Cypher.md",
+    "HTB Medi - Cypher/Pasted image 20250302120508.png",
+    "HTB Medi - Cypher/Pasted image 20250302120440.png",
+    "Template.md",
+    "HTBC - POP Restaurant/Untitled.canvas",
+    "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTB Medi - Chyper/Pasted image 20250302120213.png",
     "HTB Medi - Chyper/Pasted image 20250302120211.png",
-    "Template.md",
-    "HTB Medi - Chyper/Hackthebox - Chyper.md",
-    "HTB Medi - Chyper",
-    "HTB Hard - Checker/Hackthebox - Checker.md",
-    "HTB Hard - Checker/Pasted image 20250301151752.png",
-    "HTB Hard - Checker/Pasted image 20250301151630.png",
-    "HTB Hard - Checker/Pasted image 20250301065545.png",
-    "HTB Hard - Checker/Pasted image 20250301062443.png",
-    "HTB Hard - Checker/Pasted image 20250228143453.png",
-    "HTB Hard - Checker/Pasted image 20250228143124.png",
-    "HTB Hard - Checker/Pasted image 20250228143034.png",
-    "HTB Hard - Checker/Pasted image 20250228142856.png",
-    "HTB Hard - Checker/Pasted image 20250228142747.png",
+    "HTB Medi - Cypher",
     "HTB - Titanic/Hackthebox -  Titanic.md",
-    "HTBC - POP Restaurant/Untitled.canvas",
     "HTB - Checker",
     "HTB Hard - Checker",
     "HTB - DarkCorp/HackTheBox - DarkCorp.md",
