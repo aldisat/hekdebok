@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Medi - Chyper/Hackthebox - Chyper.md",
+                "file": "HTB Medi - Cypher/Hackthebox - Cypher.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hackthebox - Chyper"
+              "title": "Outline of Hackthebox - Cypher"
             }
           },
           {
@@ -177,23 +177,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "582d3a3ab89e3407",
+  "active": "4250d41382a15327",
   "lastOpenFiles": [
-    "HTB Medi - Cypher/Pasted image 20250302212736.png",
-    "HTB Medi - Cypher/Pasted image 20250302165805.png",
-    "HTB Medi - Cypher/Pasted image 20250302165457.png",
-    "HTB Medi - Cypher/Pasted image 20250302164924.png",
-    "HTB Medi - Cypher/Pasted image 20250302164602.png",
-    "HTB Medi - Cypher/Pasted image 20250302142145.png",
-    "HTB Medi - Cypher/Pasted image 20250302123534.png",
+    "HTB Medi - Cypher/Pasted image 20250306140720.png",
+    "HTB Medi - Cypher/Pasted image 20250306140638.png",
+    "HTB Medi - Cypher/Pasted image 20250306134040.png",
+    "HTB Medi - Cypher/Pasted image 20250306133243.png",
+    "HTB Medi - Cypher/Pasted image 20250306133152.png",
+    "HTB Medi - Cypher/Pasted image 20250306132952.png",
+    "HTB Medi - Cypher/Pasted image 20250306131506.png",
+    "HTB Medi - Cypher/Pasted image 20250306115356.png",
+    "HTB Medi - Cypher/Pasted image 20250306115257.png",
+    "HTB Medi - Cypher/Pasted image 20250306093939.png",
+    "HTB Medi - Cypher/Pasted image 20250306090611.png",
     "HTB Medi - Cypher/Hackthebox - Cypher.md",
-    "HTB Medi - Cypher/Pasted image 20250302120508.png",
-    "HTB Medi - Cypher/Pasted image 20250302120440.png",
     "Template.md",
     "HTBC - POP Restaurant/Untitled.canvas",
     "HTB Hard - Checker/Hackthebox - Checker.md",
-    "HTB Medi - Chyper/Pasted image 20250302120213.png",
-    "HTB Medi - Chyper/Pasted image 20250302120211.png",
     "HTB Medi - Cypher",
     "HTB - Titanic/Hackthebox -  Titanic.md",
     "HTB - Checker",
