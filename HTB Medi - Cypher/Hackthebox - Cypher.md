@@ -144,4 +144,6 @@ extract root.txt
 ![](Pasted%20image%2020250306140720.png)
 # 4. Post Exploitation
 ## a. User Flag
+yeah
 ## b. Root Flag
+oh yeaaah
