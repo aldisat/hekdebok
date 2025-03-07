@@ -11,17 +11,14 @@
             "id": "582d3a3ab89e3407",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HTBC - POP Restaurant/Untitled.canvas",
-                "viewState": {
-                  "x": 5,
-                  "y": 2,
-                  "zoom": 0
-                }
+                "file": "2025-03-07.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-03-07"
             }
           }
         ]
@@ -143,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTBC - POP Restaurant/Untitled.canvas",
+                "file": "2025-03-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-03-07"
             }
           },
           {
@@ -182,7 +179,15 @@
   },
   "active": "9ba4131d63fbb48e",
   "lastOpenFiles": [
+    "unnamed.jpg",
+    "HTBC Easy - POP Restaurant/POP Restaurant.md",
+    "2025-03-07.md",
+    "HTB Medi - Cypher/Pasted image 20250307134915.png",
+    "HTB Medi - Cypher/Pasted image 20250307134230.png",
+    "HTB Medi - Cypher/Pasted image 20250307134146.png",
+    "HTB Medi - Cypher",
     "HTB Medium - Cypher/Hackthebox - Cypher.md",
+    "HTBC Easy - POP Restaurant/Untitled.canvas",
     "HTB Medium - Cypher/Pasted image 20250306140720.png",
     "HTB Medium - Cypher/Pasted image 20250306140638.png",
     "HTB Medium - Cypher/Pasted image 20250306134040.png",
@@ -190,18 +195,14 @@
     "HTB Medium - Cypher/Pasted image 20250306133152.png",
     "HTB Medium - Cypher/Pasted image 20250306132952.png",
     "HTB Medium - Cypher/Pasted image 20250306131506.png",
-    "HTB Medium - Cypher/Pasted image 20250306115356.png",
-    "HTB Medium - Cypher/Pasted image 20250306115257.png",
-    "HTB Medium - Cypher/Pasted image 20250306093939.png",
     "Template.md",
-    "HTBC - POP Restaurant/Untitled.canvas",
     "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTB Medium - Cypher",
     "HTB - Titanic/Hackthebox -  Titanic.md",
     "HTB - Checker",
     "HTB Hard - Checker",
     "HTB - DarkCorp/HackTheBox - DarkCorp.md",
-    "HTBC - POP Restaurant",
+    "HTBC Easy - POP Restaurant",
     "HTB - Ti",
     "HTB - Cat/Cat.md",
     "HTB - Titanic",
@@ -210,7 +211,6 @@
     "HTB - Bigbang/Evidences.md",
     "HTB - Cat",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
-    "HTB - Bigbang",
     "HTB - Backfire/Hackthebox - Backfire.md",
     "HTB - MonitorsThree/Hackthebox - MonitorsThree.md",
     "HTB - Heal/HTB- Heal.md",
@@ -228,7 +228,6 @@
     "HTB - Insomnia/web_insomnia/Insomnia/README.md",
     "take-survey.heal.htb.md",
     "Welcome.md",
-    "2025-01-07.md",
     "Untitled 1.canvas"
   ]
 }
