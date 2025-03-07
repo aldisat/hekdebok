@@ -11,14 +11,12 @@
             "id": "582d3a3ab89e3407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2025-03-07.md",
-                "mode": "source",
-                "source": false
+                "file": "background.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2025-03-07"
+              "icon": "lucide-image",
+              "title": "background"
             }
           }
         ]
@@ -179,9 +177,10 @@
   },
   "active": "9ba4131d63fbb48e",
   "lastOpenFiles": [
-    "unnamed.jpg",
-    "HTBC Easy - POP Restaurant/POP Restaurant.md",
+    "background.jpg",
     "2025-03-07.md",
+    "index.html",
+    "HTBC Easy - POP Restaurant/POP Restaurant.md",
     "HTB Medi - Cypher/Pasted image 20250307134915.png",
     "HTB Medi - Cypher/Pasted image 20250307134230.png",
     "HTB Medi - Cypher/Pasted image 20250307134146.png",
@@ -194,7 +193,6 @@
     "HTB Medium - Cypher/Pasted image 20250306133243.png",
     "HTB Medium - Cypher/Pasted image 20250306133152.png",
     "HTB Medium - Cypher/Pasted image 20250306132952.png",
-    "HTB Medium - Cypher/Pasted image 20250306131506.png",
     "Template.md",
     "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTB Medium - Cypher",
@@ -209,7 +207,6 @@
     "HTB - Titanic",
     "HTB - DarkCorp",
     "HTB - Bigbang/Evidences.md",
-    "HTB - Cat",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "HTB - Backfire/Hackthebox - Backfire.md",
     "HTB - MonitorsThree/Hackthebox - MonitorsThree.md",
