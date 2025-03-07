@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-03-07.md",
+                "file": "background.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-07"
+              "title": "Outline of background"
             }
           },
           {
@@ -175,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ba4131d63fbb48e",
+  "active": "4250d41382a15327",
   "lastOpenFiles": [
-    "background.jpg",
     "2025-03-07.md",
+    "background.jpg",
     "index.html",
     "HTBC Easy - POP Restaurant/POP Restaurant.md",
     "HTB Medi - Cypher/Pasted image 20250307134915.png",
