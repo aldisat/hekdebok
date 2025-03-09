@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "Pasted image 20250307134230"
             }
+          },
+          {
+            "id": "4160327bed92a299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250307134230"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -175,11 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ba4131d63fbb48e",
+  "active": "4160327bed92a299",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
+    "README.md",
     "HTB Easy - Dog",
     "HTBC Easy - POP Restaurant/Pasted image 20250307134915.png",
-    "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
     "HTBC Easy - POP Restaurant/Pasted image 20250307134146.png",
     "background.jpg",
     "2025-03-07.md",
@@ -206,7 +223,6 @@
     "HTB - Cat/Cat.md",
     "HTB - Titanic",
     "HTB - Titanic",
-    "HTB - DarkCorp",
     "HTB - Bigbang/Evidences.md",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "HTB - Backfire/Hackthebox - Backfire.md",
@@ -224,8 +240,6 @@
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/codeigniter4/framework/README.md",
     "HTB - Insomnia/web_insomnia/Insomnia/tests/README.md",
     "HTB - Insomnia/web_insomnia/Insomnia/README.md",
-    "take-survey.heal.htb.md",
-    "Welcome.md",
     "Untitled 1.canvas"
   ]
 }

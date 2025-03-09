@@ -1,19 +1,50 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
 <title>Hekdebok</title>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 <style>
 body {
-  background-image: url('background.jpg');
+  background-image: url('/hekdebok/background.jpg');
+  color: white; /* Set text color to white */
+  font-family: 'Roboto', sans-serif; /* Apply Roboto font */
+  font-size: 15px; /* Set font size */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  margin: 0; /* Remove default margin */
+  text-align: center; /* Center text */
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80%; /* Prevents stretching */
+  padding: 20px;
+}
+h1 {
+  font-size: 45px;
+  margin-bottom: 15px;
+}
+a {
+  color: white; /* Set link color to white */
+  text-decoration: none; /* Remove underline */
+  font-size: 15px; /* Set font size for links */
+}
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+  color: blue;
 }
 </style>
 </head>
-<body >
+<body>
 
-<p>Hello dudes, this is my writeups! happy reading</p>
-<a href="https://github.com/aldisat/hekdebok/blob/main/HTB%20Hard%20-%20Checker/Hackthebox%20-%20Checker.md">Hackthebox (Hard) - Checker</a>
+<div class="container">
+  <h1>SHATRIYAA - HEKDEBOK</h1>
+  <p>Welcome to HEKDEBOK! Here, I share detailed write-ups of CTF challenges I've solved, covering exploit techniques, payloads, and methodologies across web, binary, reverse engineering, and more. Whether you're a beginner learning the ropes or an experienced hacker looking for insights, I hope these write-ups help. Feel free to explore, learn, and discuss! 🚀 <br><br><a href="https://github.com/aldisat/hekdebok"><b>CLICK ME!</b></a></p>
+</div>
 
 </body>
-</html> 
+</html>
