@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "background.jpg"
+                "file": "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png"
               },
               "icon": "lucide-image",
-              "title": "background"
+              "title": "Pasted image 20250307134230"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "background.jpg",
+                "file": "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of background"
+              "title": "Outline of Pasted image 20250307134230"
             }
           },
           {
@@ -175,15 +175,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4250d41382a15327",
+  "active": "9ba4131d63fbb48e",
   "lastOpenFiles": [
-    "2025-03-07.md",
+    "HTB Easy - Dog",
+    "HTBC Easy - POP Restaurant/Pasted image 20250307134915.png",
+    "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
+    "HTBC Easy - POP Restaurant/Pasted image 20250307134146.png",
     "background.jpg",
+    "2025-03-07.md",
     "index.html",
     "HTBC Easy - POP Restaurant/POP Restaurant.md",
-    "HTB Medi - Cypher/Pasted image 20250307134915.png",
-    "HTB Medi - Cypher/Pasted image 20250307134230.png",
-    "HTB Medi - Cypher/Pasted image 20250307134146.png",
     "HTB Medi - Cypher",
     "HTB Medium - Cypher/Hackthebox - Cypher.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",

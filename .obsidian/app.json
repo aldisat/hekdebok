@@ -15,7 +15,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "HTB Medi - Cypher",
+  "attachmentFolderPath": "HTB Easy - Dog",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
