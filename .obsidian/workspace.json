@@ -11,12 +11,14 @@
             "id": "582d3a3ab89e3407",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png"
+                "file": "HTB Easy - Dog/Hackthebox - Dog.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250307134230"
+              "icon": "lucide-file",
+              "title": "Hackthebox - Dog"
             }
           }
         ]
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HTB Easy - Dog/Hackthebox - Dog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Hackthebox - Dog"
             }
           },
           {
@@ -177,26 +179,28 @@
   },
   "active": "4250d41382a15327",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "HTBC Easy - POP Restaurant/Pasted image 20250307134230.png",
+    "HTB Easy - Dog/Pasted image 20250310143639.png",
+    "HTB Easy - Dog/Pasted image 20250310141916.png",
+    "HTB Easy - Dog/Pasted image 20250310140940.png",
+    "HTB Easy - Dog/Pasted image 20250310135959.png",
+    "HTB Easy - Dog/Pasted image 20250310135741.png",
+    "HTB Easy - Dog/Pasted image 20250310135650.png",
+    "HTB Easy - Dog/Pasted image 20250310125124.png",
+    "HTB Easy - Dog/Pasted image 20250310113338.png",
+    "HTB Easy - Dog/Pasted image 20250310113324.png",
+    "HTB Easy - Dog/Pasted image 20250310112743.png",
+    "HTB Easy - Dog/Pasted image 20250310111612.png",
+    "Template.md",
     "README.md",
+    "HTB Easy - Dog/Hackthebox - Dog.md",
+    "conflict-files-obsidian-git.md",
     "HTB Easy - Dog",
-    "HTBC Easy - POP Restaurant/Pasted image 20250307134915.png",
-    "HTBC Easy - POP Restaurant/Pasted image 20250307134146.png",
-    "background.jpg",
     "2025-03-07.md",
     "index.html",
     "HTBC Easy - POP Restaurant/POP Restaurant.md",
     "HTB Medi - Cypher",
     "HTB Medium - Cypher/Hackthebox - Cypher.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
-    "HTB Medium - Cypher/Pasted image 20250306140720.png",
-    "HTB Medium - Cypher/Pasted image 20250306140638.png",
-    "HTB Medium - Cypher/Pasted image 20250306134040.png",
-    "HTB Medium - Cypher/Pasted image 20250306133243.png",
-    "HTB Medium - Cypher/Pasted image 20250306133152.png",
-    "HTB Medium - Cypher/Pasted image 20250306132952.png",
-    "Template.md",
     "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTB Medium - Cypher",
     "HTB - Titanic/Hackthebox -  Titanic.md",
@@ -224,7 +228,6 @@
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/firebase/php-jwt/README.md",
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/codeigniter4/framework/README.md",
     "HTB - Insomnia/web_insomnia/Insomnia/tests/README.md",
-    "HTB - Insomnia/web_insomnia/Insomnia/README.md",
     "Untitled 1.canvas"
   ]
 }
