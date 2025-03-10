@@ -149,7 +149,7 @@ upload linpeas
 ## c. SUID
 ![](Pasted%20image%2020250310141916.png)
 ## d. bee
-![](Pasted%20image%2020250310143639.png)
+![](Pasted%20image%2020250310143920.png)
 # 4. Post Exploitation
 ## a. User Flag
 All right!
