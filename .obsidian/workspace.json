@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Easy - Dog/Hackthebox - Dog.md",
+                "file": "HTB Medium - TheFrizz/Hackthebox - TheFrizz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackthebox - Dog"
+              "title": "Hackthebox - TheFrizz"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "0c8b90bd9bfcf396",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025-01-07.md",
+                "file": "HTB Medium - TheFrizz/Hackthebox - TheFrizz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-07"
+              "title": "Outgoing links from Hackthebox - TheFrizz"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB Easy - Dog/Hackthebox - Dog.md",
+                "file": "HTB Medium - TheFrizz/Hackthebox - TheFrizz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hackthebox - Dog"
+              "title": "Outline of Hackthebox - TheFrizz"
             }
           },
           {
@@ -177,28 +179,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "582d3a3ab89e3407",
+  "active": "4250d41382a15327",
   "lastOpenFiles": [
-    "HTB Easy - Dog/Pasted image 20250310143639.png",
-    "HTB Easy - Dog/Hackthebox - Dog.md",
-    "HTB Easy - Dog/Pasted image 20250310143920.png",
-    "HTB Easy - Dog/Pasted image 20250310141916.png",
-    "HTB Easy - Dog/Pasted image 20250310140940.png",
-    "HTB Easy - Dog/Pasted image 20250310135959.png",
-    "HTB Easy - Dog/Pasted image 20250310135741.png",
-    "HTB Easy - Dog/Pasted image 20250310135650.png",
-    "HTB Easy - Dog/Pasted image 20250310125124.png",
-    "HTB Easy - Dog/Pasted image 20250310113338.png",
-    "HTB Easy - Dog/Pasted image 20250310113324.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422050327.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422050246.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422045747.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422043742.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422043739.png",
+    "HTB Medium - TheFrizz/Pasted image 20250422043705.png",
+    "HTB Medium - TheFrizz/Pasted image 20250421145240.png",
+    "HTB Medium - TheFrizz/Hackthebox - TheFrizz.md",
+    "HTB Medium - TheFrizz/Pasted image 20250421141116.png",
+    "HTB Medium - TheFrizz/Pasted image 20250421141039.png",
+    "HTB Medium - TheFrizz/Pasted image 20250421140550.png",
+    "HTB Medium - TheFrizz/Pasted image 20250421134513.png",
     "Template.md",
+    "HTB Medium - Cypher/Hackthebox - Cypher.md",
+    "HTB Medium - TheFrizz",
+    "HTBC Easy - POP Restaurant/POP Restaurant.md",
+    "CRTA LAB/Lab.md",
+    "HTB Easy - Dog/Hackthebox - Dog.md",
+    "CRTA LAB",
     "README.md",
     "conflict-files-obsidian-git.md",
     "HTB Easy - Dog",
     "2025-03-07.md",
     "index.html",
-    "HTBC Easy - POP Restaurant/POP Restaurant.md",
     "HTB Medi - Cypher",
-    "HTB Medium - Cypher/Hackthebox - Cypher.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "HTB Hard - Checker/Hackthebox - Checker.md",
     "HTB Medium - Cypher",
@@ -209,8 +216,6 @@
     "HTBC Easy - POP Restaurant",
     "HTB - Ti",
     "HTB - Cat/Cat.md",
-    "HTB - Titanic",
-    "HTB - Titanic",
     "HTB - Bigbang/Evidences.md",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "HTB - Backfire/Hackthebox - Backfire.md",
@@ -225,8 +230,6 @@
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/laminas/laminas-escaper/LICENSE.md",
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/laminas/laminas-escaper/COPYRIGHT.md",
     "HTB - Insomnia/web_insomnia/Insomnia/vendor/firebase/php-jwt/README.md",
-    "HTB - Insomnia/web_insomnia/Insomnia/vendor/codeigniter4/framework/README.md",
-    "HTB - Insomnia/web_insomnia/Insomnia/tests/README.md",
     "Untitled 1.canvas"
   ]
 }

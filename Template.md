@@ -1,18 +1,21 @@
-# 1.  Service Enumeration
+# A.  Service Enumeration
 | IP  | Port |
 | --- | ---- |
 | TCP | -    |
 | UDP | -    |
-## a. TCP Active Port
-## b. UDP Active Port
-## c. Domain
+## 1. TCP Active Port
+## 2. UDP Active Port
+## 3. Domain
 
-# 2. Initial Access
-## a. ..
-## b. ..
-## c. ..
-# 3. Privilege Escalation
-## a. ..
-# 4. Post Exploitation
-## a. User Flag
-## b. Root Flag
+# B. Initial Access
+## 1. Web - asd.com
+### a. Default Password
+### b. SearchSploit
+### c . Dorking
+## 2. ..
+## 3. ..
+# C. Privilege Escalation
+## 1. ..
+# D. Post Exploitation
+## 1. User Flag
+## 2. Root Flag
