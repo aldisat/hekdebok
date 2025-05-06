@@ -131,6 +131,6 @@ type \\RED-DC.redteam.corp\C$\Users\Administrator\Desktop\secret.xml
 ![](../HTB%20Medium%20-%20TheFrizz/Pasted%20image%2020250503025443.png)
 # 5. Conclussion
 
-
+...
 
 
