@@ -7,7 +7,7 @@
 | Internal IP Range | 192.168.98.0/24 |
 # 2. Active Host
 ## a. Internal
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311114755.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311114755.png)
 192.168.80.1
 192.168.80.10
 ## b. External
@@ -20,10 +20,10 @@ Nope
 | 192.168.80.10 | 22    | -      |
 ## a. 192.168.80.1
 ### TCP
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311124703.png)
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311132434.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311124703.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311132434.png)
 ### UDP
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250312092749.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250312092749.png)
 ## b. 192.168.80.10
 ### TCP
 ![](Pasted%20image%2020250312131313.png)
@@ -32,23 +32,23 @@ Nope
 Nope
 # 4. Web - 192.168.80.1
 ## a. User Interface
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311134804.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311134804.png)
 Modul:
 - Login
 ## b. Direktori
 a. feroxbuster -> Nope
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311142835.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311142835.png)
 b. dirsearch -> Nope
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311142929.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311142929.png)
 ## c. Subdomain
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250311150625.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250311150625.png)
 Nope
 # 5. NTP
    ## a. nmap
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250312102843.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250312102843.png)
 # 6. DNS
 nslookup
-![](../HTB%20Easy%20-%20Dog/Pasted%20image%2020250312113013.png)
+![](../HTB%20(Easy)%20-%20Dog/Pasted%20image%2020250312113013.png)
 # 7. Web - 192.168.80.10
 ## a. User Interface
 ![](Pasted%20image%2020250312132403.png)

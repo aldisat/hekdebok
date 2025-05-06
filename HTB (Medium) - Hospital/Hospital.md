@@ -1,4 +1,4 @@
-![](../HTB%20Medium%20-%20TheFrizz/Hospital.png)
+![](../HTB%20(Medium)%20-%20TheFrizz/Hospital.png)
 # A.  Service Enumeration
 | IP  | Port |
 | --- | ---- |
