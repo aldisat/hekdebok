@@ -16,7 +16,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "PicoCTF (Easy) - Cookie Monster Secret Recipe 1",
+  "attachmentFolderPath": "PicoCTF (Medium) - SSTI2",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
