@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d57eec95db60515d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTB Template"
-            }
-          },
-          {
-            "id": "06d932a3ee4ee3d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cookie Monster Secret Recipe"
-            }
-          },
-          {
             "id": "fc6137c336e6b6ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cookie Monster Secret Recipe"
+              "title": "SSTI2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cookie Monster Secret Recipe"
+              "title": "Outgoing links from SSTI2"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cookie Monster Secret Recipe"
+              "title": "Outline of SSTI2"
             }
           },
           {
@@ -210,17 +181,24 @@
   },
   "active": "fc6137c336e6b6ff",
   "lastOpenFiles": [
-    "PicoCTF (Medium) - SSTI2/SSTI2.md",
-    "PicoCTF Template.md",
-    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
-    "PicoCTF (Medium) - SSTI2",
     "PicoCTF (Easy) - n0s4n1ty 1/n0s4n1ty 1.md",
-    "README.md",
+    "PicoCTF (Medium) - SSTI2/SSTI2.md",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250509095210.png",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250509094943.png",
     "HTB Template.md",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250509094203.png",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250508103418.png",
+    "CRTA LAB/Lab.md",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250507150030.png",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250507145151.png",
+    "PicoCTF (Medium) - SSTI2/Pasted image 20250507144157.png",
+    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+    "PicoCTF Template.md",
+    "PicoCTF (Medium) - SSTI2",
+    "README.md",
     "background.jpg",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe/Pasted image 20250507141048.png",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe/Pasted image 20250507141355.png",
-    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Pasted image 20250507141315.png",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe 1",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe 1/Cookie Monster Secret Recipe.md",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe",
@@ -228,17 +206,10 @@
     "Secret",
     "Monster",
     "PicoCTF (Easy) - Cookie",
-    "PicoCTF (Easy) - head-dump/Pasted image 20250506125522.png",
-    "PicoCTF (Easy) - head-dump/Pasted image 20250506130424.png",
     "PicoCTF (Easy) - head-dump/head-dump.md",
-    "CRTA LAB/Lab.md",
     "PicoCTF (Easy) - head-dump",
-    "PicoCTF (Easy) - n0s4n1ty 1/Pasted image 20250506111915.png",
-    "PicoCTF (Easy) - n0s4n1ty 1/Pasted image 20250506111735.png",
-    "PicoCTF (Easy) - n0s4n1ty 1/Pasted image 20250506111251.png",
     "PicoCTF (Easy) - n0s4n1ty 1/rce.php",
     "PicoCTF (Easy) - n0s4n1ty 1/command_injection2.php",
-    "PicoCTF (Easy) - n0s4n1ty 1/Pasted image 20250506110319.png",
     "HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
     "HTB (Medium) - Cypher/Cypher.md",
     "HTB (Medium) - Hospital/Hospital.md",
@@ -257,7 +228,6 @@
     "HTB - Bigbang/Evidences.md",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "HTB - Backfire/Hackthebox - Backfire.md",
-    "HTB - MonitorsThree/Hackthebox - MonitorsThree.md",
     "HTB - Insomnia/HTB - Insomnia.canvas",
     "Untitled 1.canvas"
   ]
