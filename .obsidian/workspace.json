@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
+                "file": "PicoCTF (Medium) - 3v@l/3v@l.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSTI2"
+              "title": "3v@l"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
+                "file": "PicoCTF (Medium) - Apriti sesamo/Apriti sesamo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SSTI2"
+              "title": "Outgoing links from Apriti sesamo"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF (Medium) - SSTI2/SSTI2.md",
+                "file": "PicoCTF (Medium) - Apriti sesamo/Apriti sesamo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SSTI2"
+              "title": "Outline of Apriti sesamo"
             }
           },
           {
@@ -181,35 +181,37 @@
   },
   "active": "fc6137c336e6b6ff",
   "lastOpenFiles": [
-    "PicoCTF (Easy) - n0s4n1ty 1/n0s4n1ty 1.md",
     "PicoCTF (Medium) - SSTI2/SSTI2.md",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250509095210.png",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250509094943.png",
-    "HTB Template.md",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250509094203.png",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250508103418.png",
-    "CRTA LAB/Lab.md",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250507150030.png",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250507145151.png",
-    "PicoCTF (Medium) - SSTI2/Pasted image 20250507144157.png",
-    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+    "PicoCTF (Medium) - 3v@l/3v@l.md",
+    "PicoCTF (Medium) - 3v@l/Pasted image 20250522104347.png",
+    "PicoCTF (Medium) - 3v@l/Pasted image 20250522104243.png",
+    "PicoCTF (Medium) - 3v@l/Pasted image 20250522103734.png",
+    "PicoCTF (Medium) - 3v@l/Pasted image 20250522101257.png",
     "PicoCTF Template.md",
-    "PicoCTF (Medium) - SSTI2",
+    "HTB Template.md",
     "README.md",
-    "background.jpg",
-    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Pasted image 20250507141048.png",
-    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Pasted image 20250507141355.png",
+    "PicoCTF (Medium) - 3v@l/Pasted image 20250522092228.png",
+    "3",
+    "PicoCTF (Medium) - Apriti sesamo/Apriti sesamo.md",
+    "PicoCTF (Medium) - 3v@l",
+    "PicoCTF (Medium) - Apriti sesamo/Pasted image 20250509134032.png",
+    "PicoCTF (Medium) - Apriti sesamo/backup.php",
+    "PicoCTF (Medium) - Apriti sesamo/Pasted image 20250509132542.png",
+    "PicoCTF (Medium) - Apriti sesamo/Pasted image 20250509102901.png",
+    "PicoCTF (Medium) - Apriti sesamo/Pasted image 20250509102043.png",
+    "PicoCTF (Medium) - Apriti sesamo/Pasted image 20250509101850.png",
+    "PicoCTF (Medium) - Apriti sesamo",
+    "PicoCTF (Easy) - n0s4n1ty 1/n0s4n1ty 1.md",
+    "CRTA LAB/Lab.md",
+    "PicoCTF (Easy) - Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
+    "PicoCTF (Medium) - SSTI2",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe 1",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe 1/Cookie Monster Secret Recipe.md",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe",
     "Recipe",
     "Secret",
     "Monster",
-    "PicoCTF (Easy) - Cookie",
     "PicoCTF (Easy) - head-dump/head-dump.md",
-    "PicoCTF (Easy) - head-dump",
-    "PicoCTF (Easy) - n0s4n1ty 1/rce.php",
-    "PicoCTF (Easy) - n0s4n1ty 1/command_injection2.php",
     "HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
     "HTB (Medium) - Cypher/Cypher.md",
     "HTB (Medium) - Hospital/Hospital.md",
@@ -225,9 +227,7 @@
     "HTB - Titanic/Hackthebox -  Titanic.md",
     "HTB - DarkCorp/HackTheBox - DarkCorp.md",
     "HTB - Cat/Cat.md",
-    "HTB - Bigbang/Evidences.md",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
-    "HTB - Backfire/Hackthebox - Backfire.md",
     "HTB - Insomnia/HTB - Insomnia.canvas",
     "Untitled 1.canvas"
   ]
