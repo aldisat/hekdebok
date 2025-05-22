@@ -51,3 +51,5 @@ Knowledge need to know:
 - Obfuscation
 - Flask alternative function
 
+Reference:
+https://medium.com/@mihasha/3v-l-write-up-picoctf-2025-d84e30c039cf
