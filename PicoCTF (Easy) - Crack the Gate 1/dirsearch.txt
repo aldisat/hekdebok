@@ -1,0 +1,1 @@
+# Dirsearch started at 2026-01-22 15:16:55 as: /Users/snipeyes-01/Hack/dirsearch/dirsearch.py -u http://amiable-citadel.picoctf.net:61184/ -o dirsearch.txt

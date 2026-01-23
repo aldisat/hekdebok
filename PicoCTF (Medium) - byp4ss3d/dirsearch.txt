@@ -1,0 +1,8 @@
+# Dirsearch started at 2026-01-23 10:06:37 as: /Users/snipeyes-01/Hack/dirsearch/dirsearch.py -u http://amiable-citadel.picoctf.net:61163/images/asde.PHP5 -o dirsearch.txt
+301   352B http://amiable-citadel.picoctf.net:50596/images  ->  http://amiable-citadel.picoctf.net:50596/images/
+403   295B http://amiable-citadel.picoctf.net:50596/images/
+200   974B http://amiable-citadel.picoctf.net:50596/index.php/login/
+200   974B http://amiable-citadel.picoctf.net:50596/index.php
+403   295B http://amiable-citadel.picoctf.net:50596/server-status
+403   295B http://amiable-citadel.picoctf.net:50596/server-status/
+200     0B http://amiable-citadel.picoctf.net:50596/upload.php
