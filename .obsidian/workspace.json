@@ -79,16 +79,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF (Medium) - byp4ss3d/byp4ss3d.md",
+                "file": "PicoCTF (Easy) - Heap-dump/Heap-dump.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "byp4ss3d"
+              "title": "Heap-dump"
+            }
+          },
+          {
+            "id": "5d72ac71f1f79973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF (Medium) - Pachinko/Pachinko.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pachinko"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF (Medium) - byp4ss3d/byp4ss3d.md",
+                "file": "PicoCTF (Medium) - Pachinko/Pachinko.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of byp4ss3d"
+              "title": "Outline of Pachinko"
             }
           },
           {
@@ -247,36 +261,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10ade4eae4839423",
+  "active": "5d72ac71f1f79973",
   "lastOpenFiles": [
+    "PicoCTF (Medium) - Pachinko/server/programs/nand_checker.bin",
+    "PicoCTF (Medium) - Pachinko/server/programs/flag.bin",
+    "PicoCTF (Medium) - Pachinko/server/programs",
+    "PicoCTF (Medium) - Pachinko/server/public/styles.css",
+    "PicoCTF (Medium) - Pachinko/server/public/index.html",
+    "PicoCTF (Medium) - Pachinko/server/public",
+    "PicoCTF (Medium) - Pachinko/server/wasm/pkg/verilog_ctf_wasm.d.ts",
+    "PicoCTF (Medium) - Pachinko/server/wasm/src/lib.rs",
+    "PicoCTF (Medium) - Pachinko/server/wasm/pkg/verilog_ctf_wasm_bg.wasm.d.ts",
+    "PicoCTF (Medium) - Pachinko/server/wasm/pkg/verilog_ctf_wasm_bg.wasm",
+    "PicoCTF (Medium) - Pachinko/server/wasm/pkg/verilog_ctf_wasm.js",
+    "PicoCTF (Easy) - Heap-dump/Heap-dump.md",
+    "PicoCTF (Medium) - Pachinko/Pachinko.md",
+    "PicoCTF (Medium) - byp4ss3d/byp4ss3d.md",
     "HTB (Easy) - Fluffy/Pasted image 20260123105117.png",
     "HTB (Easy) - Fluffy/Pasted image 20260123105021.png",
     "HTB (Easy) - Fluffy/Pasted image 20260123104847.png",
-    "PicoCTF (Medium) - byp4ss3d/nuclei",
-    "PicoCTF (Medium) - byp4ss3d/dirsearch.txt",
     "HTB (Easy) - Fluffy/Pasted image 20260123094932.png",
     "PicoCTF (Medium) - Crack the Gate 2/Crack the Gate 2.md",
-    "PicoCTF (Medium) - byp4ss3d/byp4ss3d.md",
-    "PicoCTF (Medium) - byp4ss3d",
     "HTB (Easy) - Fluffy/Pasted image 20260122154458.png",
-    "PicoCTF (Medium) - Crack the Gate 2/passwords.txt",
     "PicoCTF (Easy) - Crack the Gate 1/PicoCTF Template.md",
     "PicoCTF (Easy) - Crack the Gate 1/Crack the Gate 1.md",
-    "PicoCTF (Medium) - Crack the Gate 2",
     "HTB (Easy) - Fluffy/Pasted image 20260122152939.png",
     "HTB (Easy) - Fluffy/Pasted image 20260122152739.png",
-    "PicoCTF (Easy) - Crack the Gate 1/dirsearch.txt",
     "PicoCTG (Easy) - Crack the Gate 1/Crack the Gate 1.md",
-    "PicoCTF (Easy) - Crack the Gate 1",
-    "PicoCTF (Easy) - head-dump/head-dump.md",
-    "PicoCTG (Easy) - Crack the Gate 1",
     "HTB (Easy) - Fluffy/Pasted image 20260122145606.png",
     "HTB (Easy) - Fluffy/Pasted image 20260122145024.png",
-    "PicoCTF (Easy) - head-dump/heapdump-1769068133894.heapsnapshot",
-    "PicoCTF (Easy) - head-dump/Pasted image 20250506125522.png",
-    "HTB (Easy) - Fluffy/Pasted image 20251130212342.png",
+    "PicoCTF (Easy) - Heap-dump/Pasted image 20250506125522.png",
     "HTB - Eighteen/Note Hackthebox Eighteen.md",
-    "HTB - Eighteen",
     "HTB - Instant/Hackthebox - Instant.md",
     "HTB - Bigbang/Evidences.md",
     "HTB (Easy) - Fluffy/Fluffy.md",
@@ -294,7 +309,6 @@
     "HTB (Medium) - Cypher/Cypher.md",
     "HTB (Medium) - Hospital/Hospital.md",
     "HTB (Medium) - TheFrizz/TheFrizz.md",
-    "CRTA EXAM/Aldi Satria - CRTA Exam Report.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "HTB - Insomnia/HTB - Insomnia.canvas",
