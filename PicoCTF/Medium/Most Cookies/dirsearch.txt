@@ -1,0 +1,2 @@
+# Dirsearch started at 2026-01-24 11:47:23 as: /Users/snipeyes-01/Hack/dirsearch/dirsearch.py -u http://wily-courier.picoctf.net:58769/ -o dirsearch.txt
+302   189B http://wily-courier.picoctf.net:58769/display  ->  /
