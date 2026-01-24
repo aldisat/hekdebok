@@ -91,12 +91,14 @@
             "id": "5d72ac71f1f79973",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "background.jpg"
+                "file": "PicoCTF/Medium/More Cookies/More Cookies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "background"
+              "icon": "lucide-file",
+              "title": "More Cookies"
             }
           }
         ],
@@ -221,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "background.jpg",
+                "file": "PicoCTF/Medium/More Cookies/More Cookies.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of background"
+              "title": "Outline of More Cookies"
             }
           },
           {
@@ -261,6 +263,16 @@
   },
   "active": "5d72ac71f1f79973",
   "lastOpenFiles": [
+    "PicoCTF/Medium/Web Gauntlet 2/Web Gauntlet 2.md",
+    "PicoCTF/Medium/More Cookies/More Cookies.md",
+    "PicoCTF/Medium/More Cookies",
+    "PicoCTF/Medium/Web Gauntlet 2/Pasted image 20260124122050.png",
+    "PicoCTF/Medium/Web Gauntlet 2/Pasted image 20260124133841.png",
+    "PicoCTF/Medium/Web Gauntlet 2/Pasted image 20260124122303.png",
+    "PicoCTF/Medium/Web Gauntlet 2/Pasted image 20260124122146.png",
+    "background.jpg",
+    "HTB (Easy) - Fluffy",
+    "PicoCTF/Medium/Web Gauntlet 2Untitled",
     "HTB Template.md",
     "PicoCTF/Medium/Most Cookies/Most Cookies.md",
     "Hackthebox",
@@ -273,9 +285,6 @@
     "PicoCTF/Medium/Most Cookies",
     "Hackthebox/HTB (Hard) - Scepter/Hackthebox - Scepter.md",
     "PicoCTF/Medium/Pachinko/Pachinko.md",
-    "PicoCTF/Medium/Pachinko/server/programs/nand_checker.bin",
-    "PicoCTF/Medium/Pachinko/server/programs/flag.bin",
-    "PicoCTF/Medium/Pachinko/server/programs",
     "PicoCTF/Easy/Heap-dump/Heap-dump.md",
     "PicoCTF/Medium/byp4ss3d/byp4ss3d.md",
     "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260123105117.png",
@@ -286,12 +295,7 @@
     "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260122154458.png",
     "PicoCTF/Easy/Crack the Gate 1/PicoCTF Template.md",
     "PicoCTF (Easy) - Crack the Gate 1/Crack the Gate 1.md",
-    "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260122152939.png",
-    "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260122152739.png",
     "PicoCTG (Easy) - Crack the Gate 1/Crack the Gate 1.md",
-    "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260122145606.png",
-    "Hackthebox/HTB (Easy) - Fluffy/Pasted image 20260122145024.png",
-    "PicoCTF/Easy/Heap-dump/Pasted image 20250506125522.png",
     "Hackthebox/HTB - Eighteen/Note Hackthebox Eighteen.md",
     "Hackthebox/HTB - Instant/Hackthebox - Instant.md",
     "Hackthebox/HTB - Bigbang/Evidences.md",
@@ -305,7 +309,6 @@
     "PicoCTF/Easy/Cookie Monster Secret Recipe/Cookie Monster Secret Recipe.md",
     "PicoCTF (Easy) - Cookie Monster Secret Recipe 1/Cookie Monster Secret Recipe.md",
     "Hackthebox/HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
-    "Hackthebox/HTB (Medium) - Cypher/Cypher.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "Hackthebox/HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "Hackthebox/HTB - Insomnia/HTB - Insomnia.canvas",
