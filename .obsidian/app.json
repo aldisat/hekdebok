@@ -16,7 +16,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "HTB (Easy) - Fluffy",
+  "attachmentFolderPath": "attachments",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true
