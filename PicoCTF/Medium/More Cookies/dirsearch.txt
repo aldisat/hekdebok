@@ -1,0 +1,4 @@
+# Dirsearch started at 2026-01-24 14:22:02 as: /Users/snipeyes-01/Hack/dirsearch/dirsearch.py -u http://wily-courier.picoctf.net:60815/ -o dirsearch.txt
+302   189B http://wily-courier.picoctf.net:60815/flag  ->  /
+302   189B http://wily-courier.picoctf.net:60815/reset  ->  /
+405   153B http://wily-courier.picoctf.net:60815/search
