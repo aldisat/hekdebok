@@ -1,0 +1,16 @@
+POST /contribute.php HTTP/1.1
+Host: wily-courier.picoctf.net:49815
+Content-Length: 9
+Cache-Control: max-age=0
+Accept-Language: en-US,en;q=0.9
+Origin: http://wily-courier.picoctf.net:49815
+Content-Type: application/x-www-form-urlencoded
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://wily-courier.picoctf.net:49815/index.php
+Accept-Encoding: gzip, deflate, br
+Cookie: session=eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.aXRPdg.DLihBndvqWzw3jShcyaaDnOlpLM; PHPSESSID=53d2bd5d4e57a6dc407fe136155d05af; auth_name=NHdRTCtvRXNmU25odGwvSnJSMlBzbzVXSVhSWWl2U3o3S00zT1dYVWtITE5Fd0VaMVl2NjVyZjJ2aEdNSWJ3T0tXSlJ2TFQ5azBwSUpiVXZ6ZllXNU5KUGNnTEc3VEhETkJYYXk4MmM4ZXg5NzEyUTZWUmxNU3UzVDNnVGIzY3M=
+Connection: keep-alive
+
+moneys=3
