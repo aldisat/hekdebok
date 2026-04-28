@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Challenge/HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
+                "file": "CRTA LAB/Lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POP Restaurant"
+              "title": "Lab"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/Challenge/HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
+                "file": "CRTA LAB/Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from POP Restaurant"
+              "title": "Outgoing links from Lab"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackthebox/Challenge/HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
+                "file": "CRTA LAB/Lab.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of POP Restaurant"
+              "title": "Outline of Lab"
             }
           },
           {
@@ -211,8 +211,11 @@
   },
   "active": "bf612a19055b3271",
   "lastOpenFiles": [
-    "GOAD/Network Enumeration.md",
+    "README.md",
+    "HTB Template.md",
+    "background.jpg",
     "Hackthebox/Challenge/HTB Challenge (Easy) - POP Restaurant/POP Restaurant.md",
+    "GOAD/Network Enumeration.md",
     "Hackthebox/Challenge/HTB Challenge (Easy) - POP Restaurant/Pasted image 20250307134146.png",
     "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
     "Hackthebox/Lab/Hard/HTB (Hard) - Scepter/Hackthebox - Scepter.md",
@@ -225,8 +228,6 @@
     "attachments/Pasted image 20260429061942.png",
     "attachments/Pasted image 20260429061859.png",
     "attachments/Pasted image 20260429054855.png",
-    "attachments/Pasted image 20260429054652.png",
-    "HTB Template.md",
     "Hackthebox/Lab/Linux/Medium/Pterodactyl.md",
     "Hackthebox/Lab/Linux/Easy/WingData.md",
     "Hackthebox/Lab/Linux/Easy/Facts.md",
@@ -234,7 +235,6 @@
     "Hackthebox/Lab/Windows/Medium/Overwatch.md",
     "Hackthebox/Lab/Windows/Easy/Eighteen.md",
     "Hackthebox/Lab/Windows/Easy/MonitorsFour.md",
-    "README.md",
     "Untitled 2.base",
     "Hackthebox/Lab/Linux/Easy",
     "Hackthebox/Lab/Linux",
@@ -257,7 +257,6 @@
     "PicoCTF/Medium/Web Gauntlet 2/Web Gauntlet 2.md",
     "PicoCTF/Medium/More Cookies/More Cookies.md",
     "PicoCTF/Medium/Most Cookies/Most Cookies.md",
-    "PicoCTF/Medium/Apriti sesamo/Apriti sesamo.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "Hackthebox/Lab/Easy/HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "Hackthebox/Lab/Easy/HTB - Insomnia/HTB - Insomnia.canvas",
