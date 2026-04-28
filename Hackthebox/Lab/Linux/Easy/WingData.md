@@ -48,6 +48,9 @@
 #### -- check the format hash
 ![](../../../../attachments/Pasted%20image%2020260424132339.png)
 #### -- successfuly get password
+```
+!#7Blushing^*Bride5
+```
 ![](../../../../attachments/Pasted%20image%2020260424132445.png)
 #### -- access shell
 ![](../../../../attachments/Pasted%20image%2020260424132604.png)
@@ -63,3 +66,12 @@
 ![](../../../../attachments/Pasted%20image%2020260424134148.png)
 ### b. find for backup file -> nothing
 ![](../../../../attachments/Pasted%20image%2020260424140045.png)
+## 4. check /opt
+![](../../../../attachments/Pasted%20image%2020260428084826.png)
+## 5. Python version
+![](../../../../attachments/Pasted%20image%2020260428093233.png)
+### a. CVE
+![](../../../../attachments/Pasted%20image%2020260428111315.png)
+### b. PoC
+https://github.com/AzureADTrent/CVE-2025-4517-POC
+![](../../../../attachments/Pasted%20image%2020260428111710.png)
