@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
+                "file": "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpreter"
+              "title": "Checker"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
+                "file": "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interpreter"
+              "title": "Outgoing links from Checker"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
+                "file": "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interpreter"
+              "title": "Outline of Checker"
             }
           },
           {
@@ -209,8 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4250d41382a15327",
+  "active": "bf612a19055b3271",
   "lastOpenFiles": [
+    "Hackthebox/Lab/Hard/HTB (Hard) - Scepter/Hackthebox - Scepter.md",
+    "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
+    "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Pasted image 20250223103627.png",
+    "Hackthebox/Lab/Linux/Medium/Interpreter.md",
     "attachments/Pasted image 20260429063954.png",
     "attachments/Pasted image 20260429062838.png",
     "attachments/Pasted image 20260429062801.png",
@@ -220,10 +224,7 @@
     "attachments/Pasted image 20260429054855.png",
     "attachments/Pasted image 20260429054652.png",
     "attachments/Pasted image 20260429054647.png",
-    "attachments/Pasted image 20260429054607.png",
-    "attachments/Pasted image 20260429054551.png",
     "HTB Template.md",
-    "Hackthebox/Lab/Linux/Medium/Interpreter.md",
     "Hackthebox/Lab/Linux/Medium/Pterodactyl.md",
     "Hackthebox/Lab/Linux/Easy/WingData.md",
     "Hackthebox/Lab/Linux/Easy/Facts.md",
@@ -241,8 +242,6 @@
     "CRTA EXAM/Aldi Satria - CRTA Exam Report.md",
     "Hackthebox/Lab/Windows/Medium",
     "Hackthebox/Lab/Windows/Easy",
-    "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Hackthebox - Checker.md",
-    "Hackthebox/Lab/Hard/HTB (Hard) - Scepter/Hackthebox - Scepter.md",
     "Hackthebox/Lab/Windows",
     "Hackthebox/Lab/Easy/HTB (Easy) - Dog/Hackthebox - Dog.md",
     "Hackthebox/Lab/Untitled.md",
