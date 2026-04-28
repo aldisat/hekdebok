@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Easy/WingData.md",
+                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WingData"
+              "title": "Interpreter"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Easy/WingData.md",
+                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WingData"
+              "title": "Outgoing links from Interpreter"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Easy/WingData.md",
+                "file": "Hackthebox/Lab/Linux/Medium/Interpreter.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WingData"
+              "title": "Outline of Interpreter"
             }
           },
           {
@@ -211,17 +211,19 @@
   },
   "active": "4250d41382a15327",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260424140045.png",
-    "attachments/Pasted image 20260424134148.png",
-    "attachments/Pasted image 20260424133129.png",
-    "attachments/Pasted image 20260424132855.png",
-    "attachments/Pasted image 20260424132727.png",
-    "attachments/Pasted image 20260424132604.png",
-    "attachments/Pasted image 20260424132445.png",
-    "attachments/Pasted image 20260424132339.png",
-    "attachments/Pasted image 20260424132000.png",
-    "attachments/Pasted image 20260424102410.png",
-    "attachments/Pasted image 20260424102205.png",
+    "attachments/Pasted image 20260429063954.png",
+    "attachments/Pasted image 20260429062838.png",
+    "attachments/Pasted image 20260429062801.png",
+    "attachments/Pasted image 20260429061948.png",
+    "attachments/Pasted image 20260429061942.png",
+    "attachments/Pasted image 20260429061859.png",
+    "attachments/Pasted image 20260429054855.png",
+    "attachments/Pasted image 20260429054652.png",
+    "attachments/Pasted image 20260429054647.png",
+    "attachments/Pasted image 20260429054607.png",
+    "attachments/Pasted image 20260429054551.png",
+    "HTB Template.md",
+    "Hackthebox/Lab/Linux/Medium/Interpreter.md",
     "Hackthebox/Lab/Linux/Medium/Pterodactyl.md",
     "Hackthebox/Lab/Linux/Easy/WingData.md",
     "Hackthebox/Lab/Linux/Easy/Facts.md",
@@ -229,7 +231,6 @@
     "Hackthebox/Lab/Windows/Medium/Overwatch.md",
     "Hackthebox/Lab/Windows/Easy/Eighteen.md",
     "Hackthebox/Lab/Windows/Easy/MonitorsFour.md",
-    "HTB Template.md",
     "README.md",
     "Untitled 2.base",
     "Hackthebox/Lab/Linux/Easy",
@@ -257,7 +258,6 @@
     "PicoCTF/Medium/Most Cookies/Most Cookies.md",
     "PicoCTF/Medium/Apriti sesamo/Apriti sesamo.md",
     "PicoCTF/Medium/Pachinko/Pachinko.md",
-    "PicoCTF/Easy/Heap-dump/Heap-dump.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "Hackthebox/Lab/Easy/HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "Hackthebox/Lab/Easy/HTB - Insomnia/HTB - Insomnia.canvas",
