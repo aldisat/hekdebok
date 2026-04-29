@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "WingData"
             }
+          },
+          {
+            "id": "cde4ac12d48ca64e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackthebox/Lab/Linux/Easy/WingData.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WingData"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -180,21 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4250d41382a15327",
+  "active": "cde4ac12d48ca64e",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260428111710.png",
-    "attachments/Pasted image 20260428111315.png",
-    "attachments/Pasted image 20260428093233.png",
-    "attachments/Pasted image 20260428093132.png",
-    "attachments/Pasted image 20260428084826.png",
-    "attachments/Pasted image 20260424140045.png",
-    "attachments/Pasted image 20260424134148.png",
-    "attachments/Pasted image 20260424133129.png",
-    "attachments/Pasted image 20260424132855.png",
-    "attachments/Pasted image 20260424132727.png",
-    "attachments/Pasted image 20260424132604.png",
-    "Hackthebox/Lab/Linux/Medium/Pterodactyl.md",
     "Hackthebox/Lab/Linux/Easy/WingData.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Pasted image 20260429063954.png",
+    "attachments/Pasted image 20260429062838.png",
+    "attachments/Pasted image 20260429062801.png",
+    "attachments/Pasted image 20260429061948.png",
+    "attachments/Pasted image 20260429061942.png",
+    "attachments/Pasted image 20260429054855.png",
+    "attachments/Pasted image 20260429054652.png",
+    "attachments/Pasted image 20260429054647.png",
+    "attachments/Pasted image 20260429054607.png",
+    "attachments/Pasted image 20260429054551.png",
+    "Hackthebox/Lab/Medium/HTB (Hard) - Checker/Checker.md",
+    "Hackthebox/Lab/Linux/Medium/Interpreter.md",
+    "Hackthebox/Lab/Linux/Medium/Pterodactyl.md",
     "Hackthebox/Lab/Linux/Easy/Facts.md",
     "Hackthebox/Lab/Linux/Medium",
     "Hackthebox/Lab/Windows/Medium/Overwatch.md",
@@ -227,8 +244,6 @@
     "PicoCTF/Medium/More Cookies/More Cookies.md",
     "PicoCTF/Medium/Most Cookies/Most Cookies.md",
     "PicoCTF/Medium/Apriti sesamo/Apriti sesamo.md",
-    "PicoCTF/Medium/Pachinko/Pachinko.md",
-    "PicoCTF/Easy/Heap-dump/Heap-dump.md",
     "HTBC Easy - POP Restaurant/Untitled.canvas",
     "Hackthebox/Lab/Easy/HTB - EscapeTwo/HTB - EscapeTwo.canvas",
     "Hackthebox/Lab/Easy/HTB - Insomnia/HTB - Insomnia.canvas",
