@@ -35,12 +35,14 @@
             "id": "81c5947fe9b72d61",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Heal.png"
+                "file": "Hackthebox/Pterodactyl.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Heal"
+              "icon": "lucide-file",
+              "title": "Pterodactyl"
             }
           }
         ],
@@ -165,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Heal.png",
+                "file": "Hackthebox/Pterodactyl.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Heal"
+              "title": "Outline of Pterodactyl"
             }
           },
           {
@@ -205,6 +207,7 @@
   },
   "active": "81c5947fe9b72d61",
   "lastOpenFiles": [
+    "attachments/Heal.png",
     "attachments/Hospital.png",
     "Hackthebox/Scepter.png",
     "attachments/Pasted image 20250503072210.png",
@@ -215,7 +218,6 @@
     "attachments/Pasted image 20250503022013.png",
     "attachments/Pasted image 20250503021931.png",
     "attachments/Pasted image 20250503021509.png",
-    "attachments/Pasted image 20250503021347.png",
     "Hackthebox/Hospital.md",
     "Hackthebox/Titanic.md",
     "Hackthebox/MonitorsThree.md",
