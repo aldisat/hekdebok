@@ -2,7 +2,7 @@
 ## a. Port TCP
 ![](../../../../attachments/Pasted%20image%2020260429054855.png)
 ## b. Port UDP
-
+filtered
 # 2. Enumeration
 ## a. Web
 ![](../../../../attachments/Pasted%20image%2020260429043107.png)
@@ -35,5 +35,15 @@ decryp it and it exhausted
 
 ### -- check hash type again, pkdf2WithHmacSHA256
 ![](../../../../attachments/Pasted%20image%2020260429063954.png)
+### -- make it into pkdf2WithHmacSHA256 format
+![](../attachments/Pasted%20image%2020260429203546.png)
+cracked
+![](../attachments/Pasted%20image%2020260429203712.png)
+## b. SSH
+successfully get shell
+![](../attachments/Pasted%20image%2020260429204230.png)
 
 # 3. Privilege Escalation
+## a. recon
+![](../attachments/Pasted%20image%2020260429204835.png)
+
