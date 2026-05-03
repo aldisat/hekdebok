@@ -1,11 +1,3 @@
-# 0. Summary
-
-|             | Value       |
-| ----------- | ----------- |
-| IP          | 10.10.11.55 |
-| Credentials |             |
-|             |             |
-|             |             |
 # 1. Active Ports
 ## TCP
 ![[../attachments/Pasted image 20250218090225.png]]

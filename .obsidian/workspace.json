@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackthebox/WingData.md",
+                "file": "Hackthebox/Titanic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WingData"
+              "title": "Titanic"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackthebox/WingData.md",
+                "file": "Hackthebox/Titanic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WingData"
+              "title": "Backlinks for Titanic"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackthebox/WingData.md",
+                "file": "Hackthebox/Titanic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WingData"
+              "title": "Outgoing links from Titanic"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackthebox/WingData.md",
+                "file": "Hackthebox/Titanic.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WingData"
+              "title": "Outline of Titanic"
             }
           },
           {
@@ -182,6 +182,8 @@
   },
   "active": "3bb5ca043c7c2bb9",
   "lastOpenFiles": [
+    "Hackthebox/WingData.md",
+    "Hackthebox/Titanic.md",
     "Hackthebox/Interpreter.md",
     "attachments/Pasted image 20260502091651.png",
     "attachments/Pasted image 20260502091051.png",
@@ -199,8 +201,6 @@
     "Hackthebox/MonitorsFour.md",
     "Hackthebox/POP Restaurant.md",
     "Hackthebox/TheFrizz.md",
-    "Hackthebox/Titanic.md",
-    "Hackthebox/WingData.md",
     "CRTA LAB/Lab.md",
     "Hackthebox/Overwatch.md",
     "Hackthebox/MonitorsThree.md",
